@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
-### 自定义配置
-见 [配置参考](https://cli.vuejs.org/config/).
+## 这个项目是做什么的？
+···
+这是一个作业，它没什么实际意义，能用，但不多。
+···
+
+
+
